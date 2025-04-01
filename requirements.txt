@@ -1,3 +1,5 @@
 streamlit
 google-generativeai
 opencv-python
+os
+json
