@@ -3,3 +3,8 @@ google-generativeai
 opencv-python
 os
 json
+re
+pathlib
+time
+cv2
+base64
