@@ -8,6 +8,8 @@ import time
 import cv2
 import base64
 from typing import Dict, List, Union
+!pip install -r requirements.txt
+
 
 # Configuration
 API_KEY = "AIzaSyAu-8UFZAx07gxgwy1aD_mgiTARy8ANgLs"  # Updated API key as provided
