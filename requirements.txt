@@ -1,9 +1,4 @@
 streamlit
 google-generativeai
 opencv-python
-json
-re
-pathlib
-time
-cv2
-base64
+
