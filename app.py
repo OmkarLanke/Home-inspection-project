@@ -8,7 +8,7 @@ import time
 import cv2
 import base64
 from typing import Dict, List, Union
-!pip install -r requirements.txt
+# !pip install -r requirements.txt
 
 
 # Configuration
