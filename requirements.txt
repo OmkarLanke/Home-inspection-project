@@ -1,7 +1,6 @@
 streamlit
 google-generativeai
 opencv-python
-os
 json
 re
 pathlib
